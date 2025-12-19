@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository or its outputs in your research, please cite it
+  using the metadata below.
+title: "Obesity–Dysglycemia Risk, Prediction, and Prevention (NHANES 2017–2018)"
+type: software
+url: "https://github.com/drsunday-ade/obesity-dysglycemia-risk-prediction-prevention"
+repository-code: "https://github.com/drsunday-ade/obesity-dysglycemia-risk-prediction-prevention"
+abstract: >-
+  Nationally representative NHANES 2017–2018 analysis of obesity-associated
+  dysglycemia among non-pregnant U.S. women aged 20–44 years. The repository
+  includes NHANES public-use XPT files used for the analysis, rendered
+  publication-ready tables and figures, and metadata inventories supporting
+  survey-weighted modeling, regression standardization (absolute risks, risk
+  differences, risk ratios, and population attributable fraction), subgroup
+  heterogeneity by pregnancy history, and sensitivity analyses.
+keywords:
+  - NHANES
+  - obesity
+  - dysglycemia
+  - prediabetes
+  - diabetes
+  - women’s health
+  - reproductive age
+  - survey-weighted analysis
+  - risk difference
+  - population attributable fraction
+authors:
+  - given-names: Sunday A.
+    family-names: Adetunji
+    email: adetunjs@oregonstate.edu
+    orcid: "https://orcid.org/0000-0001-9321-9957"
+    affiliation: >-
+      Department of Epidemiology, College of Health, Oregon State University;
+      Faculty of Clinical Sciences, Obafemi Awolowo University
+  - given-names: Feyisayo
+    family-names: Olufemi
+    email: feyisayof@oregonstate.edu
+    orcid: "https://orcid.org/0000-0003-4978-1613"
+    affiliation: Department of Nutrition, College of Health, Oregon State University
+  - given-names: Olusola P.
+    family-names: Ekundayo
+    email: infinitescolarii@gmail.com
+    affiliation: Ross University School of Medicine
+date-released: "2025-12-19"
+preferred-citation:
+  type: article
+  title: "One in four obese U.S. women of reproductive age has dysglycemia: national burden and prevention-relevant risk differences (NHANES 2017–2018)"
+  authors:
+    - given-names: Sunday A.
+      family-names: Adetunji
+      orcid: "https://orcid.org/0000-0001-9321-9957"
+    - given-names: Feyisayo
+      family-names: Olufemi
+      orcid: "https://orcid.org/0000-0003-4978-1613"
+    - given-names: Olusola P.
+      family-names: Ekundayo
+  year: 2025
+  notes: >-
+    Manuscript in preparation. Cite this repository if the article is not yet published.
