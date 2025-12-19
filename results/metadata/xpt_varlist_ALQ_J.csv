@@ -1,0 +1,11 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+ALQ_J,SEQN,numeric,5533,0,0,5533,Respondent sequence number
+ALQ_J,ALQ111,numeric,5533,403,7.283571299475872,2,Ever had a drink of any kind of alcohol
+ALQ_J,ALQ121,numeric,5533,988,17.856497379360203,13,Past 12 mo how often have alcohol drink
+ALQ_J,ALQ130,numeric,5533,2038,36.833544189409004,16,Avg # alcohol drinks/day - past 12 mos
+ALQ_J,ALQ142,numeric,5533,2038,36.833544189409004,13,# days have 4 or 5 drinks/past 12 mos
+ALQ_J,ALQ270,numeric,5533,4094,73.99240918127597,13,# times 4-5 drinks in 2 hrs/past 12 mos
+ALQ_J,ALQ280,numeric,5533,4094,73.99240918127597,13,# times 8+ drinks in 1 day/past 12 mos
+ALQ_J,ALQ290,numeric,5533,5011,90.56569672871859,13,# times 12+ drinks in 1 day/past 12 mos
+ALQ_J,ALQ151,numeric,5533,989,17.874570757274533,4,Ever have 4/5 or more drinks every day?
+ALQ_J,ALQ170,numeric,5533,2046,36.97813121272366,21,Past 30 days # times 4-5 drinks on an oc

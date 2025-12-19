@@ -1,0 +1,38 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+SMQ_J,SEQN,numeric,6724,0,0,6724,Respondent sequence number
+SMQ_J,SMQ020,numeric,6724,868,12.90898274836407,2,Smoked at least 100 cigarettes in life
+SMQ_J,SMD030,numeric,6724,4365,64.91671624033313,48,Age started smoking cigarettes regularly
+SMQ_J,SMQ040,numeric,6724,4365,64.91671624033313,3,Do you now smoke cigarettes?
+SMQ_J,SMQ050Q,numeric,6724,5386,80.10113027959548,53,How long since quit smoking cigarettes
+SMQ_J,SMQ050U,numeric,6724,5469,81.33551457465794,4,Unit of measure (day/week/month/year)
+SMQ_J,SMD057,numeric,6724,5386,80.10113027959548,35,# cigarettes smoked per day when quit
+SMQ_J,SMQ078,numeric,6724,5931,88.2064247471743,8,How soon after waking do you smoke
+SMQ_J,SMD641,numeric,6724,5661,84.19095776323617,28,# days smoked cigs during past 30 days
+SMQ_J,SMD650,numeric,6724,5702,84.80071386079715,28,Avg # cigarettes/day during past 30 days
+SMQ_J,SMD093,numeric,6724,5703,84.81558596073765,4,May I please see the pack of cigarettes
+SMQ_J,SMDUPCA,character,6724,0,0,175,Cig 12-digit Universal Product Code-UPC
+SMQ_J,SMD100BR,character,6724,0,0,119,Cigarette Brand/sub-brand
+SMQ_J,SMD100FL,numeric,6724,5795,86.18381915526473,2,Cigarette Filter type
+SMQ_J,SMD100MN,numeric,6724,5795,86.18381915526473,2,Cigarette Menthol indicator
+SMQ_J,SMD100LN,numeric,6724,5795,86.18381915526473,4,Cigarette Length
+SMQ_J,SMD100TR,numeric,6724,6029,89.66389054134444,12,FTC Tar Content
+SMQ_J,SMD100NI,numeric,6724,6029,89.66389054134444,12,FTC Nicotine Content
+SMQ_J,SMD100CO,numeric,6724,6029,89.66389054134444,13,FTC Carbon Monoxide Content
+SMQ_J,SMQ621,numeric,6724,5903,87.79000594883998,9,Cigarettes smoked in entire life
+SMQ_J,SMD630,numeric,6724,6682,99.3753718024985,9,Age first smoked whole cigarette
+SMQ_J,SMQ661,numeric,6724,6710,99.79179060083284,6,Brand of cigarettes smoked past 30 days
+SMQ_J,SMQ665A,numeric,6724,6721,99.95538370017846,2,Marlboro variety
+SMQ_J,SMQ665B,numeric,6724,6723,99.98512790005948,1,Camel variety
+SMQ_J,SMQ665C,numeric,6724,6720,99.94051160023795,3,Newport variety
+SMQ_J,SMQ665D,numeric,6724,6722,99.97025580011898,1,Other brand
+SMQ_J,SMQ670,numeric,6724,5689,84.60737656157049,2,Tried to quit smoking
+SMQ_J,SMQ848,numeric,6724,6196,92.14753123140987,14,# times stopped smoking cigarettes
+SMQ_J,SMQ852Q,numeric,6724,6202,92.23676383105294,30,How long were you able to stop smoking
+SMQ_J,SMQ852U,numeric,6724,6205,92.28138013087448,3,Unit of measure (day/week/month/year)
+SMQ_J,SMQ890,numeric,6724,868,12.90898274836407,3,Ever smoked a cigar even 1 time?
+SMQ_J,SMQ895,numeric,6724,4629,68.8429506246282,20,How many days smoked a cigar?
+SMQ_J,SMQ900,numeric,6724,868,12.90898274836407,3,Ever used an e-cigarette?
+SMQ_J,SMQ905,numeric,6724,5574,82.89708506841166,19,How many days used an e-cigarette?
+SMQ_J,SMQ910,numeric,6724,868,12.90898274836407,3,Ever used smokeless tobacco?
+SMQ_J,SMQ915,numeric,6724,5863,87.1951219512195,15,How many days used smokeless tobacco?
+SMQ_J,SMAQUEX2,numeric,6724,0,0,2,Questionnaire Mode Flag

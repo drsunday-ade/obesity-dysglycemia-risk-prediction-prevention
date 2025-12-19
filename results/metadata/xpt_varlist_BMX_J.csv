@@ -1,0 +1,22 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+BMX_J,SEQN,numeric,8704,0,0,8704,Respondent sequence number
+BMX_J,BMDSTATS,numeric,8704,0,0,4,Body Measures Component Status Code
+BMX_J,BMXWT,numeric,8704,124,1.4246323529411764,1405,Weight (kg)
+BMX_J,BMIWT,numeric,8704,8288,95.22058823529412,3,Weight Comment
+BMX_J,BMXRECUM,numeric,8704,7810,89.72886029411765,444,Recumbent Length (cm)
+BMX_J,BMIRECUM,numeric,8704,8680,99.72426470588235,1,Recumbent Length Comment
+BMX_J,BMXHEAD,numeric,8704,8510,97.77113970588235,88,Head Circumference (cm)
+BMX_J,BMIHEAD,numeric,8704,8704,100,0,Head Circumference Comment
+BMX_J,BMXHT,numeric,8704,688,7.904411764705882,1033,Standing Height (cm)
+BMX_J,BMIHT,numeric,8704,8605,98.86259191176471,2,Standing Height Comment
+BMX_J,BMXBMI,numeric,8704,699,8.030790441176471,440,Body Mass Index (kg/m**2)
+BMX_J,BMXLEG,numeric,8704,2001,22.989430147058822,246,Upper Leg Length (cm)
+BMX_J,BMILEG,numeric,8704,8370,96.1626838235294,1,Upper Leg Length Comment
+BMX_J,BMXARML,numeric,8704,527,6.0546875,347,Upper Arm Length (cm)
+BMX_J,BMIARML,numeric,8704,8357,96.01332720588235,1,Upper Arm Length Comment
+BMX_J,BMXARMC,numeric,8704,531,6.100643382352941,393,Arm Circumference (cm)
+BMX_J,BMIARMC,numeric,8704,8354,95.97886029411765,1,Arm Circumference Comment
+BMX_J,BMXWAIST,numeric,8704,1103,12.672334558823529,1035,Waist Circumference (cm)
+BMX_J,BMIWAIST,numeric,8704,8267,94.97931985294117,1,Waist Circumference Comment
+BMX_J,BMXHIP,numeric,8704,2665,30.618106617647058,751,Hip Circumference (cm)
+BMX_J,BMIHIP,numeric,8704,8434,96.89797794117646,1,Hip Circumference Comment

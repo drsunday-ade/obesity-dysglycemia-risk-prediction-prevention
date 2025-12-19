@@ -1,0 +1,3 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+GHB_J,SEQN,numeric,6401,0,0,6401,Respondent sequence number
+GHB_J,LBXGH,numeric,6401,356,5.561630995157007,94,Glycohemoglobin (%)

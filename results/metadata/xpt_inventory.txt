@@ -1,0 +1,39 @@
+NHANES XPT Inventory + Variable Crawl (FIXED)
+
+Study root: /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/NHANES_maternal/study1/study01_gdm_dysglycemia_nhanes_2017_2018
+XPT dir:    /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/NHANES_maternal/study1/study01_gdm_dysglycemia_nhanes_2017_2018/data/raw_xpt
+Run time:   2025-12-17 01:22:17
+
+=== DATASET INVENTORY ===
+
+- ALQ_J | OK | rows=5533 cols=10
+  label: Alcohol Use
+- BMX_J | OK | rows=8704 cols=21
+- BPX_J | OK | rows=8704 cols=21
+- DEMO_J | OK | rows=9254 cols=46
+- DIQ_J | OK | rows=8897 cols=54
+  label: Diabetes
+- DR1TOT_J | OK | rows=8704 cols=168
+  label: Dietary Interview - Total Nutrient Intak
+- DR2TOT_J | OK | rows=8704 cols=85
+  label: Dietary Interview - Total Nutrient Intak
+- FASTQX_J | OK | rows=8366 cols=19
+- GHB_J | OK | rows=6401 cols=2
+- GLU_J | OK | rows=3036 cols=4
+- INS_J | OK | rows=3036 cols=5
+- PAQ_J | OK | rows=5856 cols=17
+  label: Physical Activity
+- RHQ_J | OK | rows=3286 cols=47
+  label: Reproductive Health
+- RXQ_RX_J | OK | rows=19643 cols=13
+  label: Prescription Medication
+- SMQ_J | OK | rows=6724 cols=37
+  label: Smoking - Cigarette Use
+
+=== NEXT STEP FOR MATERNAL LINKAGE ===
+
+Paste back (or attach) these files:
+  - /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/NHANES_maternal/study1/study01_gdm_dysglycemia_nhanes_2017_2018/results/metadata/xpt_varlist_DEMO_J.csv
+  - /Users/drsunjava/Desktop/2. Medical Boards Stack/Abstracts/NHANES_maternal/study1/study01_gdm_dysglycemia_nhanes_2017_2018/results/metadata/xpt_varlist_RHQ_J.csv
+Then I will lock the maternal variables (parity/delivery history/GDM/etc.) to exactly what exists in your files.
+

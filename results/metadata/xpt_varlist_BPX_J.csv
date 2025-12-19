@@ -1,0 +1,22 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+BPX_J,SEQN,numeric,8704,0,0,8704,Respondent sequence number
+BPX_J,PEASCCT1,numeric,8704,8260,94.89889705882354,3,Blood Pressure Comment
+BPX_J,BPXCHR,numeric,8704,7165,82.31847426470588,58,60 sec HR (30 sec HR * 2)
+BPX_J,BPAARM,numeric,8704,1887,21.6796875,2,Arm selected
+BPX_J,BPACSZ,numeric,8704,1892,21.737132352941178,4,Coded cuff size
+BPX_J,BPXPLS,numeric,8704,1962,22.54136029411765,48,60 sec. pulse (30 sec. pulse * 2)
+BPX_J,BPXPULS,numeric,8704,423,4.859834558823529,2,Pulse regular or irregular?
+BPX_J,BPXPTY,numeric,8704,1962,22.54136029411765,2,Pulse type
+BPX_J,BPXML1,numeric,8704,1973,22.667738970588236,28,MIL: maximum inflation levels (mm Hg)
+BPX_J,BPXSY1,numeric,8704,2402,27.596507352941178,71,Systolic: Blood pres (1st rdg) mm Hg
+BPX_J,BPXDI1,numeric,8704,2402,27.596507352941178,56,Diastolic: Blood pres (1st rdg) mm Hg
+BPX_J,BPAEN1,numeric,8704,2402,27.596507352941178,2,Enhancement used first reading
+BPX_J,BPXSY2,numeric,8704,2141,24.597886029411764,73,Systolic: Blood pres (2nd rdg) mm Hg
+BPX_J,BPXDI2,numeric,8704,2141,24.597886029411764,59,Diastolic: Blood pres (2nd rdg) mm Hg
+BPX_J,BPAEN2,numeric,8704,2141,24.597886029411764,2,Enhancement used second reading
+BPX_J,BPXSY3,numeric,8704,2166,24.88511029411765,75,Systolic: Blood pres (3rd rdg) mm Hg
+BPX_J,BPXDI3,numeric,8704,2166,24.88511029411765,60,Diastolic: Blood pres (3rd rdg) mm Hg
+BPX_J,BPAEN3,numeric,8704,2166,24.88511029411765,2,Enhancement used third reading
+BPX_J,BPXSY4,numeric,8704,8148,93.61213235294117,62,Systolic: Blood pres (4th rdg) mm Hg
+BPX_J,BPXDI4,numeric,8704,8148,93.61213235294117,44,Diastolic: Blood pres (4th rdg) mm Hg
+BPX_J,BPAEN4,numeric,8704,8148,93.61213235294117,2,Enhancement used fourth reading

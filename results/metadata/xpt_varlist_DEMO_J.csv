@@ -1,0 +1,47 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+DEMO_J,SEQN,numeric,9254,0,0,9254,Respondent sequence number
+DEMO_J,SDDSRVYR,numeric,9254,0,0,1,Data release cycle
+DEMO_J,RIDSTATR,numeric,9254,0,0,2,Interview/Examination status
+DEMO_J,RIAGENDR,numeric,9254,0,0,2,Gender
+DEMO_J,RIDAGEYR,numeric,9254,0,0,81,Age in years at screening
+DEMO_J,RIDAGEMN,numeric,9254,8657,93.5487356818673,25,Age in months at screening - 0 to 24 mos
+DEMO_J,RIDRETH1,numeric,9254,0,0,5,Race/Hispanic origin
+DEMO_J,RIDRETH3,numeric,9254,0,0,6,Race/Hispanic origin w/ NH Asian
+DEMO_J,RIDEXMON,numeric,9254,550,5.943375837475686,2,Six month time period
+DEMO_J,RIDEXAGM,numeric,9254,5821,62.9025286362654,240,Age in months at exam - 0 to 19 years
+DEMO_J,DMQMILIZ,numeric,9254,3250,35.11994813053815,4,Served active duty in US Armed Forces
+DEMO_J,DMQADFC,numeric,9254,8693,93.9377566457748,3,Served in a foreign country
+DEMO_J,DMDBORN4,numeric,9254,0,0,4,Country of birth
+DEMO_J,DMDCITZN,numeric,9254,3,0.03241841365895829,4,Citizenship status
+DEMO_J,DMDYRSUS,numeric,9254,7306,78.94964339744975,11,Length of time in US
+DEMO_J,DMDEDUC3,numeric,9254,6948,75.08104603414739,17,Education level - Children/Youth 6-19
+DEMO_J,DMDEDUC2,numeric,9254,3685,39.8206181110871,7,Education level - Adults 20+
+DEMO_J,DMDMARTL,numeric,9254,3685,39.8206181110871,7,Marital status
+DEMO_J,RIDEXPRG,numeric,9254,8144,88.00518694618543,3,Pregnancy status at exam
+DEMO_J,SIALANG,numeric,9254,0,0,2,Language of SP Interview
+DEMO_J,SIAPROXY,numeric,9254,0,0,2,Proxy used in SP Interview?
+DEMO_J,SIAINTRP,numeric,9254,0,0,2,Interpreter used in SP Interview?
+DEMO_J,FIALANG,numeric,9254,474,5.122109358115409,2,Language of Family Interview
+DEMO_J,FIAPROXY,numeric,9254,474,5.122109358115409,2,Proxy used in Family Interview?
+DEMO_J,FIAINTRP,numeric,9254,474,5.122109358115409,2,Interpreter used in Family Interview?
+DEMO_J,MIALANG,numeric,9254,2570,27.771774367840933,2,Language of MEC Interview
+DEMO_J,MIAPROXY,numeric,9254,2570,27.771774367840933,2,Proxy used in MEC Interview?
+DEMO_J,MIAINTRP,numeric,9254,2570,27.771774367840933,2,Interpreter used in MEC Interview?
+DEMO_J,AIALANGA,numeric,9254,4277,46.2178517397882,3,Language of ACASI Interview
+DEMO_J,DMDHHSIZ,numeric,9254,0,0,7,Total number of people in the Household
+DEMO_J,DMDFMSIZ,numeric,9254,0,0,7,Total number of people in the Family
+DEMO_J,DMDHHSZA,numeric,9254,0,0,4,# of children 5 years or younger in HH
+DEMO_J,DMDHHSZB,numeric,9254,0,0,4,# of children 6-17 years old in HH
+DEMO_J,DMDHHSZE,numeric,9254,0,0,4,# of adults 60 years or older in HH
+DEMO_J,DMDHRGND,numeric,9254,0,0,2,HH ref person's gender
+DEMO_J,DMDHRAGZ,numeric,9254,0,0,4,HH ref person's age in years
+DEMO_J,DMDHREDZ,numeric,9254,490,5.295007564296521,3,HH ref person's education level
+DEMO_J,DMDHRMAZ,numeric,9254,191,2.063972336287011,3,HH ref person's marital status
+DEMO_J,DMDHSEDZ,numeric,9254,4503,48.66003890209639,3,HH ref person's spouse's education level
+DEMO_J,WTINT2YR,numeric,9254,0,0,8068,Full sample 2 year interview weight
+DEMO_J,WTMEC2YR,numeric,9254,0,0,7719,Full sample 2 year MEC exam weight
+DEMO_J,SDMVPSU,numeric,9254,0,0,2,Masked variance pseudo-PSU
+DEMO_J,SDMVSTRA,numeric,9254,0,0,15,Masked variance pseudo-stratum
+DEMO_J,INDHHIN2,numeric,9254,491,5.3058137021828395,16,Annual household income
+DEMO_J,INDFMIN2,numeric,9254,474,5.122109358115409,16,Annual family income
+DEMO_J,INDFMPIR,numeric,9254,1231,13.302355738059218,445,Ratio of family income to poverty

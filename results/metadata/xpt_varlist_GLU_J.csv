@@ -1,0 +1,5 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+GLU_J,SEQN,numeric,3036,0,0,3036,Respondent sequence number
+GLU_J,WTSAF2YR,numeric,3036,0,0,2639,Fasting Subsample 2 Year MEC Weight
+GLU_J,LBXGLU,numeric,3036,145,4.776021080368906,207,Fasting Glucose (mg/dL)
+GLU_J,LBDGLUSI,numeric,3036,145,4.776021080368906,186,Fasting Glucose (mmol/L)

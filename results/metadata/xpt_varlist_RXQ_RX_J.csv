@@ -1,0 +1,14 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+RXQ_RX_J,SEQN,numeric,19643,0,0,9254,Respondent sequence number
+RXQ_RX_J,RXDUSE,numeric,19643,0,0,4,"Taken prescription medicine, past month"
+RXQ_RX_J,RXDDRUG,character,19643,0,0,670,Generic drug name
+RXQ_RX_J,RXDDRGID,character,19643,0,0,667,Generic drug code
+RXQ_RX_J,RXQSEEN,numeric,19643,5332,27.14452985796467,3,Medicine container seen by interviewer
+RXQ_RX_J,RXDDAYS,numeric,19643,5334,27.15471160209744,145,Number of days taken medicine
+RXQ_RX_J,RXDRSC1,character,19643,0,0,241,ICD-10-CM code 1
+RXQ_RX_J,RXDRSC2,character,19643,0,0,143,ICD-10-CM code 2
+RXQ_RX_J,RXDRSC3,character,19643,0,0,60,ICD-10-CM code 3
+RXQ_RX_J,RXDRSD1,character,19643,0,0,238,ICD-10-CM code 1 description
+RXQ_RX_J,RXDRSD2,character,19643,0,0,143,ICD-10-CM code 2 description
+RXQ_RX_J,RXDRSD3,character,19643,0,0,60,ICD-10-CM code 3 description
+RXQ_RX_J,RXDCOUNT,numeric,19643,5209,26.518352593799317,21,Number of prescription medicines taken

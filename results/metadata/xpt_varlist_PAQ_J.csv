@@ -1,0 +1,18 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+PAQ_J,SEQN,numeric,5856,0,0,5856,Respondent sequence number
+PAQ_J,PAQ605,numeric,5856,0,0,3,Vigorous work activity
+PAQ_J,PAQ610,numeric,5856,4467,76.28073770491804,8,Number of days vigorous work
+PAQ_J,PAD615,numeric,5856,4475,76.41734972677595,28,Minutes vigorous-intensity work
+PAQ_J,PAQ620,numeric,5856,0,0,3,Moderate work activity
+PAQ_J,PAQ625,numeric,5856,3417,58.35040983606557,8,Number of days moderate work
+PAQ_J,PAD630,numeric,5856,3430,58.572404371584696,30,Minutes moderate-intensity work
+PAQ_J,PAQ635,numeric,5856,0,0,2,Walk or bicycle
+PAQ_J,PAQ640,numeric,5856,4417,75.42691256830601,8,Number of days walk or bicycle
+PAQ_J,PAD645,numeric,5856,4426,75.58060109289617,34,Minutes walk/bicycle for transportation
+PAQ_J,PAQ650,numeric,5856,0,0,2,Vigorous recreational activities
+PAQ_J,PAQ655,numeric,5856,4422,75.51229508196721,8,Days vigorous recreational activities
+PAQ_J,PAD660,numeric,5856,4425,75.56352459016394,28,Minutes vigorous recreational activities
+PAQ_J,PAQ665,numeric,5856,0,0,2,Moderate recreational activities
+PAQ_J,PAQ670,numeric,5856,3548,60.58743169398907,8,Days moderate recreational activities
+PAQ_J,PAD675,numeric,5856,3555,60.70696721311475,30,Minutes moderate recreational activities
+PAQ_J,PAD680,numeric,5856,10,0.17076502732240437,56,Minutes sedentary activity

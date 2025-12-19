@@ -1,0 +1,6 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+INS_J,SEQN,numeric,3036,0,0,3036,Respondent sequence number
+INS_J,WTSAF2YR,numeric,3036,0,0,2639,Fasting Subsample 2 Year MEC Weight
+INS_J,LBXIN,numeric,3036,211,6.949934123847167,1715,Insulin (uU/mL)
+INS_J,LBDINSI,numeric,3036,211,6.949934123847167,1715,Insulin (pmol/L)
+INS_J,LBDINLC,numeric,3036,211,6.949934123847167,2,Insulin Comment Code

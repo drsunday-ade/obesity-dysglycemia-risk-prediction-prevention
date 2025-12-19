@@ -1,0 +1,55 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+DIQ_J,SEQN,numeric,8897,0,0,8897,Respondent sequence number
+DIQ_J,DIQ010,numeric,8897,0,0,4,Doctor told you have diabetes
+DIQ_J,DID040,numeric,8897,8005,89.97414858941217,80,Age when first told you had diabetes
+DIQ_J,DIQ160,numeric,8897,3203,36.00089917949871,3,Ever told you have prediabetes
+DIQ_J,DIQ170,numeric,8897,3021,33.95526581993931,3,Ever told have health risk for diabetes
+DIQ_J,DIQ172,numeric,8897,3021,33.95526581993931,4,Feel could be at risk for diabetes
+DIQ_J,DIQ175A,numeric,8897,7752,87.13049342474991,2,Family history
+DIQ_J,DIQ175B,numeric,8897,8240,92.61548836686524,1,Overweight
+DIQ_J,DIQ175C,numeric,8897,8680,97.5609756097561,1,Age
+DIQ_J,DIQ175D,numeric,8897,8409,94.51500505788468,1,Poor diet
+DIQ_J,DIQ175E,numeric,8897,8720,98.01056535910982,1,Race
+DIQ_J,DIQ175F,numeric,8897,8859,99.57288973811397,1,Had a baby weighed over 9 lbs. at birth
+DIQ_J,DIQ175G,numeric,8897,8579,96.42576149263797,1,Lack of physical activity
+DIQ_J,DIQ175H,numeric,8897,8606,96.72923457345172,1,High blood pressure
+DIQ_J,DIQ175I,numeric,8897,8821,99.14577947622794,1,High blood sugar
+DIQ_J,DIQ175J,numeric,8897,8734,98.16792177138362,1,High cholesterol
+DIQ_J,DIQ175K,numeric,8897,8868,99.67404743171856,1,Hypoglycemic
+DIQ_J,DIQ175L,numeric,8897,8826,99.20197819489715,1,Extreme hunger
+DIQ_J,DIQ175M,numeric,8897,8742,98.25783972125436,1,Tingling/numbness in hands or feet
+DIQ_J,DIQ175N,numeric,8897,8784,98.72990895807575,1,Blurred vision
+DIQ_J,DIQ175O,numeric,8897,8730,98.12296279644823,1,Increased fatigue
+DIQ_J,DIQ175P,numeric,8897,8754,98.39271664606046,1,Anyone could be at risk
+DIQ_J,DIQ175Q,numeric,8897,8725,98.06676407777903,1,Doctor warning
+DIQ_J,DIQ175R,numeric,8897,8878,99.78644486905698,1,"Other, specify"
+DIQ_J,DIQ175S,numeric,8897,8860,99.58412948184781,1,Gestational diabetes
+DIQ_J,DIQ175T,numeric,8897,8781,98.69618972687422,1,Frequent urination
+DIQ_J,DIQ175U,numeric,8897,8784,98.72990895807575,1,Thirst
+DIQ_J,DIQ175V,numeric,8897,8883,99.8426435877262,1,Craving for sweet/eating a lot of sugar
+DIQ_J,DIQ175W,numeric,8897,8892,99.94380128133079,1,Medication
+DIQ_J,DIQ175X,numeric,8897,8895,99.97752051253231,1,Polycystic ovarian syndrome
+DIQ_J,DIQ180,numeric,8897,3021,33.95526581993931,4,Had blood tested past three years
+DIQ_J,DIQ050,numeric,8897,0,0,3,Taking insulin now
+DIQ_J,DID060,numeric,8897,8643,97.14510509160391,37,How long taking insulin
+DIQ_J,DIQ060U,numeric,8897,8652,97.2462627852085,2,Unit of measure (month/year)
+DIQ_J,DIQ070,numeric,8897,7223,81.18466898954703,3,Take diabetic pills to lower blood sugar
+DIQ_J,DIQ230,numeric,8897,8005,89.97414858941217,6,How long ago saw a diabetes specialist
+DIQ_J,DIQ240,numeric,8897,8005,89.97414858941217,3,Is there one Dr you see for diabetes
+DIQ_J,DID250,numeric,8897,8203,92.19961784871305,19,Past year how many times seen doctor
+DIQ_J,DID260,numeric,8897,8004,89.96290884567831,14,How often check blood for glucose/sugar
+DIQ_J,DIQ260U,numeric,8897,8184,91.98606271777004,4,Unit of measure (day/week/month/year)
+DIQ_J,DIQ275,numeric,8897,8005,89.97414858941217,3,Past year Dr checked for A1C
+DIQ_J,DIQ280,numeric,8897,8150,91.60391143081938,63,What was your last A1C level
+DIQ_J,DIQ291,numeric,8897,8148,91.58143194335169,8,What does Dr say A1C should be
+DIQ_J,DIQ300S,numeric,8897,8013,90.0640665392829,87,What was your recent SBP
+DIQ_J,DIQ300D,numeric,8897,8013,90.0640665392829,62,What was your recent DBP
+DIQ_J,DID310S,numeric,8897,8011,90.04158705181521,41,What does Dr say SBP should be
+DIQ_J,DID310D,numeric,8897,8011,90.04158705181521,37,What does Dr say DBP should be
+DIQ_J,DID320,numeric,8897,8012,90.05282679554907,97,What was most recent LDL number
+DIQ_J,DID330,numeric,8897,8066,90.65977295717657,33,What does Dr say LDL should be
+DIQ_J,DID341,numeric,8897,8015,90.0865460267506,23,Past year times Dr check feet for sores
+DIQ_J,DID350,numeric,8897,8015,90.0865460267506,14,How often do you check your feet
+DIQ_J,DIQ350U,numeric,8897,8185,91.99730246150388,4,Unit of measure (day/week/month/year)
+DIQ_J,DIQ360,numeric,8897,8012,90.05282679554907,6,Last time had pupils dilated for exam
+DIQ_J,DIQ080,numeric,8897,8012,90.05282679554907,3,Diabetes affected eyes/had retinopathy

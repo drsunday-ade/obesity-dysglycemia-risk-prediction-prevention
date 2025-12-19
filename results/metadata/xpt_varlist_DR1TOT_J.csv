@@ -1,0 +1,169 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+DR1TOT_J,SEQN,numeric,8704,0,0,8704,Respondent sequence number
+DR1TOT_J,WTDRD1,numeric,8704,0,0,7234,Dietary day one sample weight
+DR1TOT_J,WTDR2D,numeric,8704,1063,12.212775735294118,6392,Dietary two-day sample weight
+DR1TOT_J,DR1DRSTZ,numeric,8704,0,0,4,Dietary recall status
+DR1TOT_J,DR1EXMER,numeric,8704,976,11.213235294117647,13,Interviewer ID code
+DR1TOT_J,DRABF,numeric,8704,1063,12.212775735294118,2,Breast-fed infant (either day)
+DR1TOT_J,DRDINT,numeric,8704,1063,12.212775735294118,2,Number of days of intake
+DR1TOT_J,DR1DBIH,numeric,8704,1246,14.315257352941176,102,# of days b/w intake and HH interview
+DR1TOT_J,DR1DAY,numeric,8704,976,11.213235294117647,7,Intake day of the week
+DR1TOT_J,DR1LANG,numeric,8704,968,11.121323529411764,6,Language respondent used mostly
+DR1TOT_J,DR1MRESP,numeric,8704,1066,12.247242647058824,11,Main respondent for this interview
+DR1TOT_J,DR1HELP,numeric,8704,1072,12.316176470588236,10,Helped in responding for this interview
+DR1TOT_J,DBQ095Z,numeric,8704,976,11.213235294117647,5,Type of table salt used
+DR1TOT_J,DBD100,numeric,8704,3782,43.451286764705884,4,How often add salt to food at table
+DR1TOT_J,DRQSPREP,numeric,8704,976,11.213235294117647,5,Salt used in preparation?
+DR1TOT_J,DR1STY,numeric,8704,976,11.213235294117647,3,Salt used at table yesterday?
+DR1TOT_J,DR1SKY,numeric,8704,7529,86.50045955882354,4,Type of salt used yesterday
+DR1TOT_J,DRQSDIET,numeric,8704,976,11.213235294117647,3,On special diet?
+DR1TOT_J,DRQSDT1,numeric,8704,8229,94.54273897058823,1,Weight loss/Low calorie diet
+DR1TOT_J,DRQSDT2,numeric,8704,8609,98.90854779411765,1,Low fat/Low cholesterol diet
+DR1TOT_J,DRQSDT3,numeric,8704,8595,98.74770220588235,1,Low salt/Low sodium diet
+DR1TOT_J,DRQSDT4,numeric,8704,8664,99.5404411764706,1,Sugar free/Low sugar diet
+DR1TOT_J,DRQSDT5,numeric,8704,8702,99.97702205882354,1,Low fiber diet
+DR1TOT_J,DRQSDT6,numeric,8704,8700,99.95404411764706,1,High fiber diet
+DR1TOT_J,DRQSDT7,numeric,8704,8565,98.40303308823529,1,Diabetic diet
+DR1TOT_J,DRQSDT8,numeric,8704,8681,99.7357536764706,1,Weight gain/Muscle building diet
+DR1TOT_J,DRQSDT9,numeric,8704,8619,99.0234375,1,Low carbohydrate diet
+DR1TOT_J,DRQSDT10,numeric,8704,8678,99.70128676470588,1,High protein diet
+DR1TOT_J,DRQSDT11,numeric,8704,8688,99.81617647058823,1,Gluten-free/Celiac diet
+DR1TOT_J,DRQSDT12,numeric,8704,8694,99.88511029411765,1,Renal/Kidney diet
+DR1TOT_J,DRQSDT91,numeric,8704,8660,99.49448529411765,1,Other special diet
+DR1TOT_J,DR1TNUMF,numeric,8704,1063,12.212775735294118,44,Number of foods/beverages reported
+DR1TOT_J,DR1TKCAL,numeric,8704,1220,14.016544117647058,3062,Energy (kcal)
+DR1TOT_J,DR1TPROT,numeric,8704,1220,14.016544117647058,6592,Protein (gm)
+DR1TOT_J,DR1TCARB,numeric,8704,1220,14.016544117647058,7164,Carbohydrate (gm)
+DR1TOT_J,DR1TSUGR,numeric,8704,1220,14.016544117647058,6914,Total sugars (gm)
+DR1TOT_J,DR1TFIBE,numeric,8704,1220,14.016544117647058,1247,Dietary fiber (gm)
+DR1TOT_J,DR1TTFAT,numeric,8704,1220,14.016544117647058,6692,Total fat (gm)
+DR1TOT_J,DR1TSFAT,numeric,8704,1220,14.016544117647058,7209,Total saturated fatty acids (gm)
+DR1TOT_J,DR1TMFAT,numeric,8704,1220,14.016544117647058,7243,Total monounsaturated fatty acids (gm)
+DR1TOT_J,DR1TPFAT,numeric,8704,1220,14.016544117647058,7128,Total polyunsaturated fatty acids (gm)
+DR1TOT_J,DR1TCHOL,numeric,8704,1220,14.016544117647058,971,Cholesterol (mg)
+DR1TOT_J,DR1TATOC,numeric,8704,1220,14.016544117647058,3602,Vitamin E as alpha-tocopherol (mg)
+DR1TOT_J,DR1TATOA,numeric,8704,1220,14.016544117647058,582,Added alpha-tocopherol (Vitamin E) (mg)
+DR1TOT_J,DR1TRET,numeric,8704,1220,14.016544117647058,1339,Retinol (mcg)
+DR1TOT_J,DR1TVARA,numeric,8704,1220,14.016544117647058,1691,"Vitamin A, RAE (mcg)"
+DR1TOT_J,DR1TACAR,numeric,8704,1220,14.016544117647058,1340,Alpha-carotene (mcg)
+DR1TOT_J,DR1TBCAR,numeric,8704,1220,14.016544117647058,3197,Beta-carotene (mcg)
+DR1TOT_J,DR1TCRYP,numeric,8704,1220,14.016544117647058,623,Beta-cryptoxanthin (mcg)
+DR1TOT_J,DR1TLYCO,numeric,8704,1220,14.016544117647058,3497,Lycopene (mcg)
+DR1TOT_J,DR1TLZ,numeric,8704,1220,14.016544117647058,2611,Lutein + zeaxanthin (mcg)
+DR1TOT_J,DR1TVB1,numeric,8704,1220,14.016544117647058,4603,Thiamin (Vitamin B1) (mg)
+DR1TOT_J,DR1TVB2,numeric,8704,1220,14.016544117647058,5004,Riboflavin (Vitamin B2) (mg)
+DR1TOT_J,DR1TNIAC,numeric,8704,1220,14.016544117647058,7180,Niacin (mg)
+DR1TOT_J,DR1TVB6,numeric,8704,1220,14.016544117647058,5028,Vitamin B6 (mg)
+DR1TOT_J,DR1TFOLA,numeric,8704,1220,14.016544117647058,1040,Total folate (mcg)
+DR1TOT_J,DR1TFA,numeric,8704,1220,14.016544117647058,739,Folic acid (mcg)
+DR1TOT_J,DR1TFF,numeric,8704,1220,14.016544117647058,664,Food folate (mcg)
+DR1TOT_J,DR1TFDFE,numeric,8704,1220,14.016544117647058,1335,"Folate, DFE (mcg)"
+DR1TOT_J,DR1TCHL,numeric,8704,1220,14.016544117647058,5730,Total choline (mg)
+DR1TOT_J,DR1TVB12,numeric,8704,1220,14.016544117647058,2471,Vitamin B12 (mcg)
+DR1TOT_J,DR1TB12A,numeric,8704,1220,14.016544117647058,711,Added vitamin B12 (mcg)
+DR1TOT_J,DR1TVC,numeric,8704,1220,14.016544117647058,3529,Vitamin C (mg)
+DR1TOT_J,DR1TVD,numeric,8704,1220,14.016544117647058,589,Vitamin D (D2 + D3) (mcg)
+DR1TOT_J,DR1TVK,numeric,8704,1220,14.016544117647058,3861,Vitamin K (mcg)
+DR1TOT_J,DR1TCALC,numeric,8704,1220,14.016544117647058,2028,Calcium (mg)
+DR1TOT_J,DR1TPHOS,numeric,8704,1220,14.016544117647058,2390,Phosphorus (mg)
+DR1TOT_J,DR1TMAGN,numeric,8704,1220,14.016544117647058,743,Magnesium (mg)
+DR1TOT_J,DR1TIRON,numeric,8704,1220,14.016544117647058,4492,Iron (mg)
+DR1TOT_J,DR1TZINC,numeric,8704,1220,14.016544117647058,4086,Zinc (mg)
+DR1TOT_J,DR1TCOPP,numeric,8704,1220,14.016544117647058,3911,Copper (mg)
+DR1TOT_J,DR1TSODI,numeric,8704,1220,14.016544117647058,4225,Sodium (mg)
+DR1TOT_J,DR1TPOTA,numeric,8704,1220,14.016544117647058,3473,Potassium (mg)
+DR1TOT_J,DR1TSELE,numeric,8704,1220,14.016544117647058,3978,Selenium (mcg)
+DR1TOT_J,DR1TCAFF,numeric,8704,1220,14.016544117647058,599,Caffeine (mg)
+DR1TOT_J,DR1TTHEO,numeric,8704,1220,14.016544117647058,357,Theobromine (mg)
+DR1TOT_J,DR1TALCO,numeric,8704,1220,14.016544117647058,388,Alcohol (gm)
+DR1TOT_J,DR1TMOIS,numeric,8704,1220,14.016544117647058,7452,Moisture (gm)
+DR1TOT_J,DR1TS040,numeric,8704,1220,14.016544117647058,2328,SFA 4:0 (Butanoic) (gm)
+DR1TOT_J,DR1TS060,numeric,8704,1220,14.016544117647058,1820,SFA 6:0 (Hexanoic) (gm)
+DR1TOT_J,DR1TS080,numeric,8704,1220,14.016544117647058,1712,SFA 8:0 (Octanoic) (gm)
+DR1TOT_J,DR1TS100,numeric,8704,1220,14.016544117647058,2618,SFA 10:0 (Decanoic) (gm)
+DR1TOT_J,DR1TS120,numeric,8704,1220,14.016544117647058,3594,SFA 12:0 (Dodecanoic) (gm)
+DR1TOT_J,DR1TS140,numeric,8704,1220,14.016544117647058,5372,SFA 14:0 (Tetradecanoic) (gm)
+DR1TOT_J,DR1TS160,numeric,8704,1220,14.016544117647058,7005,SFA 16:0 (Hexadecanoic) (gm)
+DR1TOT_J,DR1TS180,numeric,8704,1220,14.016544117647058,6525,SFA 18:0 (Octadecanoic) (gm)
+DR1TOT_J,DR1TM161,numeric,8704,1220,14.016544117647058,4002,MFA 16:1 (Hexadecenoic) (gm)
+DR1TOT_J,DR1TM181,numeric,8704,1220,14.016544117647058,7192,MFA 18:1 (Octadecenoic) (gm)
+DR1TOT_J,DR1TM201,numeric,8704,1220,14.016544117647058,1917,MFA 20:1 (Eicosenoic) (gm)
+DR1TOT_J,DR1TM221,numeric,8704,1220,14.016544117647058,448,MFA 22:1 (Docosenoic) (gm)
+DR1TOT_J,DR1TP182,numeric,8704,1220,14.016544117647058,7096,PFA 18:2 (Octadecadienoic) (gm)
+DR1TOT_J,DR1TP183,numeric,8704,1220,14.016544117647058,4933,PFA 18:3 (Octadecatrienoic) (gm)
+DR1TOT_J,DR1TP184,numeric,8704,1220,14.016544117647058,239,PFA 18:4 (Octadecatetraenoic) (gm)
+DR1TOT_J,DR1TP204,numeric,8704,1220,14.016544117647058,1177,PFA 20:4 (Eicosatetraenoic) (gm)
+DR1TOT_J,DR1TP205,numeric,8704,1220,14.016544117647058,472,PFA 20:5 (Eicosapentaenoic) (gm)
+DR1TOT_J,DR1TP225,numeric,8704,1220,14.016544117647058,341,PFA 22:5 (Docosapentaenoic) (gm)
+DR1TOT_J,DR1TP226,numeric,8704,1220,14.016544117647058,700,PFA 22:6 (Docosahexaenoic) (gm)
+DR1TOT_J,DR1_300,numeric,8704,976,11.213235294117647,4,Compare food consumed yesterday to usual
+DR1TOT_J,DR1_320Z,numeric,8704,1063,12.212775735294118,893,Total plain water drank yesterday (gm)
+DR1TOT_J,DR1_330Z,numeric,8704,1063,12.212775735294118,495,Total tap water drank yesterday (gm)
+DR1TOT_J,DR1BWATZ,numeric,8704,1063,12.212775735294118,501,Total bottled water drank yesterday (gm)
+DR1TOT_J,DR1TWSZ,numeric,8704,976,11.213235294117647,4,Tap water source
+DR1TOT_J,DRD340,numeric,8704,1303,14.970128676470589,4,Shellfish eaten during past 30 days
+DR1TOT_J,DRD350A,numeric,8704,5399,62.028952205882355,2,Clams eaten during past 30 days
+DR1TOT_J,DRD350AQ,numeric,8704,8348,95.90992647058823,9,# of times clams eaten in past 30 days
+DR1TOT_J,DRD350B,numeric,8704,5399,62.028952205882355,2,Crabs eaten during past 30 days
+DR1TOT_J,DRD350BQ,numeric,8704,8020,92.14154411764706,8,# of times crabs eaten in past 30 days
+DR1TOT_J,DRD350C,numeric,8704,5399,62.028952205882355,2,Crayfish eaten during past 30 days
+DR1TOT_J,DRD350CQ,numeric,8704,8611,98.93152573529412,10,# of times crayfish eaten past 30 days
+DR1TOT_J,DRD350D,numeric,8704,5399,62.028952205882355,2,Lobsters eaten during past 30 days
+DR1TOT_J,DRD350DQ,numeric,8704,8401,96.51884191176471,6,# of times lobsters eaten past 30 days
+DR1TOT_J,DRD350E,numeric,8704,5399,62.028952205882355,2,Mussels eaten during past 30 days
+DR1TOT_J,DRD350EQ,numeric,8704,8482,97.44944852941177,7,# of times mussels eaten in past 30 days
+DR1TOT_J,DRD350F,numeric,8704,5399,62.028952205882355,2,Oysters eaten during past 30 days
+DR1TOT_J,DRD350FQ,numeric,8704,8442,96.98988970588235,10,# of times oysters eaten in past 30 days
+DR1TOT_J,DRD350G,numeric,8704,5399,62.028952205882355,2,Scallops eaten during past 30 days
+DR1TOT_J,DRD350GQ,numeric,8704,8390,96.39246323529412,8,# of times scallops eaten past 30 days
+DR1TOT_J,DRD350H,numeric,8704,5399,62.028952205882355,2,Shrimp eaten during past 30 days
+DR1TOT_J,DRD350HQ,numeric,8704,5785,66.46369485294117,20,# of times shrimp eaten in past 30 days
+DR1TOT_J,DRD350I,numeric,8704,5399,62.028952205882355,2,Other shellfish eaten past 30 days
+DR1TOT_J,DRD350IQ,numeric,8704,8509,97.75965073529412,8,# of times other shellfish eaten
+DR1TOT_J,DRD350J,numeric,8704,5399,62.028952205882355,2,Other unknown shellfish eaten past 30 d
+DR1TOT_J,DRD350JQ,numeric,8704,8692,99.86213235294117,4,# of times other unknown shellfish eaten
+DR1TOT_J,DRD350K,numeric,8704,5399,62.028952205882355,1,Refused on shellfish eaten past 30 days
+DR1TOT_J,DRD360,numeric,8704,1303,14.970128676470589,4,Fish eaten during past 30 days
+DR1TOT_J,DRD370A,numeric,8704,4366,50.1608455882353,2,Breaded fish products eaten past 30 days
+DR1TOT_J,DRD370AQ,numeric,8704,8153,93.66957720588235,13,# of times breaded fish products eaten
+DR1TOT_J,DRD370B,numeric,8704,4366,50.1608455882353,2,Tuna eaten during past 30 days
+DR1TOT_J,DRD370BQ,numeric,8704,7129,81.9048713235294,19,# of times tuna eaten in past 30 days
+DR1TOT_J,DRD370C,numeric,8704,4366,50.1608455882353,2,Bass eaten during past 30 days
+DR1TOT_J,DRD370CQ,numeric,8704,8585,98.6328125,9,# of times bass eaten in past 30 days
+DR1TOT_J,DRD370D,numeric,8704,4366,50.1608455882353,2,Catfish eaten during past 30 days
+DR1TOT_J,DRD370DQ,numeric,8704,8081,92.8423713235294,15,# of times catfish eaten in past 30 days
+DR1TOT_J,DRD370E,numeric,8704,4366,50.1608455882353,2,Cod eaten during past 30 days
+DR1TOT_J,DRD370EQ,numeric,8704,8186,94.04871323529412,13,# of times cod eaten in past 30 days
+DR1TOT_J,DRD370F,numeric,8704,4366,50.1608455882353,2,Flatfish eaten during past 30 days
+DR1TOT_J,DRD370FQ,numeric,8704,8535,98.05836397058823,8,# of times flatfish eaten past 30 days
+DR1TOT_J,DRD370G,numeric,8704,4366,50.1608455882353,2,Haddock eaten during past 30 days
+DR1TOT_J,DRD370GQ,numeric,8704,8537,98.08134191176471,7,# of times haddock eaten in past 30 days
+DR1TOT_J,DRD370H,numeric,8704,4366,50.1608455882353,2,Mackerel eaten during past 30 days
+DR1TOT_J,DRD370HQ,numeric,8704,8591,98.7017463235294,14,# of times mackerel eaten past 30 days
+DR1TOT_J,DRD370I,numeric,8704,4366,50.1608455882353,2,Perch eaten during past 30 days
+DR1TOT_J,DRD370IQ,numeric,8704,8538,98.09283088235294,7,# of times perch eaten in past 30 days
+DR1TOT_J,DRD370J,numeric,8704,4366,50.1608455882353,2,Pike eaten during past 30 days
+DR1TOT_J,DRD370JQ,numeric,8704,8697,99.91957720588235,4,# of times pike eaten in past 30 days
+DR1TOT_J,DRD370K,numeric,8704,4366,50.1608455882353,2,Pollock eaten during past 30 days
+DR1TOT_J,DRD370KQ,numeric,8704,8562,98.3685661764706,6,# of times pollock eaten in past 30 days
+DR1TOT_J,DRD370L,numeric,8704,4366,50.1608455882353,2,Porgy eaten during past 30 days
+DR1TOT_J,DRD370LQ,numeric,8704,8682,99.74724264705883,6,# of times porgy eaten in past 30 days
+DR1TOT_J,DRD370M,numeric,8704,4366,50.1608455882353,2,Salmon eaten during past 30 days
+DR1TOT_J,DRD370MQ,numeric,8704,7045,80.93979779411765,17,# of times salmon eaten in past 30 days
+DR1TOT_J,DRD370N,numeric,8704,4366,50.1608455882353,2,Sardines eaten during past 30 days
+DR1TOT_J,DRD370NQ,numeric,8704,8491,97.55284926470588,13,# of times sardines eaten past 30 days
+DR1TOT_J,DRD370O,numeric,8704,4366,50.1608455882353,2,Sea bass eaten during past 30 days
+DR1TOT_J,DRD370OQ,numeric,8704,8622,99.05790441176471,9,# of times sea bass eaten past 30 days
+DR1TOT_J,DRD370P,numeric,8704,4366,50.1608455882353,2,Shark eaten during past 30 days
+DR1TOT_J,DRD370PQ,numeric,8704,8698,99.9310661764706,3,# of times shark eaten in past 30 days
+DR1TOT_J,DRD370Q,numeric,8704,4366,50.1608455882353,2,Swordfish eaten during past 30 days
+DR1TOT_J,DRD370QQ,numeric,8704,8669,99.59788602941177,5,# of times swordfish eaten past 30 days
+DR1TOT_J,DRD370R,numeric,8704,4366,50.1608455882353,2,Trout eaten during past 30 days
+DR1TOT_J,DRD370RQ,numeric,8704,8572,98.48345588235294,8,# of times trout eaten in past 30 days
+DR1TOT_J,DRD370S,numeric,8704,4366,50.1608455882353,2,Walleye eaten during past 30 days
+DR1TOT_J,DRD370SQ,numeric,8704,8643,99.29917279411765,5,# of times walleye eaten in past 30 days
+DR1TOT_J,DRD370T,numeric,8704,4366,50.1608455882353,2,Other fish eaten during past 30 days
+DR1TOT_J,DRD370TQ,numeric,8704,7662,88.02849264705883,18,# of times other fish eaten past 30 days
+DR1TOT_J,DRD370U,numeric,8704,4366,50.1608455882353,2,Other unknown fish eaten in past 30 days
+DR1TOT_J,DRD370UQ,numeric,8704,8454,97.12775735294117,11,# of times other unknown fish eaten
+DR1TOT_J,DRD370V,numeric,8704,4367,50.17233455882353,1,Refused on fish eaten past 30 days

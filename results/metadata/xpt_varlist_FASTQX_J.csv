@@ -1,0 +1,20 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+FASTQX_J,SEQN,numeric,8366,0,0,8366,Respondent sequence number
+FASTQX_J,PHQ020,numeric,8366,370,4.422663160411188,2,Coffee or tea with cream or sugar?
+FASTQX_J,PHACOFHR,numeric,8366,8248,98.58952904613913,15,Coffee/tea fast time (hours)
+FASTQX_J,PHACOFMN,numeric,8366,8248,98.58952904613913,54,Coffee/tea fast time (minutes)
+FASTQX_J,PHQ030,numeric,8366,370,4.422663160411188,2,"Alcohol, such as beer, wine, or liquor?"
+FASTQX_J,PHAALCHR,numeric,8366,8327,99.5338273966053,14,Alcohol fast time (hours)
+FASTQX_J,PHAALCMN,numeric,8366,8327,99.5338273966053,31,Alcohol fast time (minutes)
+FASTQX_J,PHQ040,numeric,8366,370,4.422663160411188,2,"Gum, mints, lozenges or cough drops"
+FASTQX_J,PHAGUMHR,numeric,8366,8199,98.00382500597657,15,"Gum, mints cough drops fast time (hours)"
+FASTQX_J,PHAGUMMN,numeric,8366,8199,98.00382500597657,53,"Gum, mints, cough fast time (minutes)"
+FASTQX_J,PHQ050,numeric,8366,370,4.422663160411188,2,"Antacids, laxatives, or anti-diarrheals?"
+FASTQX_J,PHAANTHR,numeric,8366,8301,99.22304566100884,16,"Antacids, laxatives fast time (hours)"
+FASTQX_J,PHAANTMN,numeric,8366,8301,99.22304566100884,42,"Antacids, laxatives fast time (minutes)"
+FASTQX_J,PHQ060,numeric,8366,370,4.422663160411188,2,Dietary supplements?
+FASTQX_J,PHASUPHR,numeric,8366,8229,98.36241931628018,17,Dietary supplements fast time (hours)
+FASTQX_J,PHASUPMN,numeric,8366,8229,98.36241931628018,50,Dietary supplements fast time (minutes)
+FASTQX_J,PHAFSTHR,numeric,8366,370,4.422663160411188,38,"Total length of ""food fast,"" hours"
+FASTQX_J,PHAFSTMN,numeric,8366,370,4.422663160411188,60,"Total length of ""food fast,"" minutes"
+FASTQX_J,PHDSESN,numeric,8366,0,0,3,Session in which SP was examined

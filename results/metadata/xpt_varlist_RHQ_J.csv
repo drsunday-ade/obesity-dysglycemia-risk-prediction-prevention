@@ -1,0 +1,48 @@
+dataset,var,type,n_rows,n_missing,pct_missing,n_unique,label
+RHQ_J,SEQN,numeric,3286,0,0,3286,Respondent sequence number
+RHQ_J,RHQ010,numeric,3286,261,7.942787583688375,18,Age when first menstrual period occurred
+RHQ_J,RHD018,numeric,3286,2839,86.39683505782106,74,Estimated age in months at menarche
+RHQ_J,RHQ020,numeric,3286,3251,98.93487522824103,5,Age range at first menstrual period
+RHQ_J,RHQ031,numeric,3286,293,8.91661594643944,4,Had regular periods in past 12 months
+RHQ_J,RHD043,numeric,3286,1866,56.78636640292149,6,Reason not having regular periods
+RHQ_J,RHQ060,numeric,3286,1848,56.23858794887401,44,Age at last menstrual period
+RHQ_J,RHQ070,numeric,3286,3234,98.41752891052951,8,Age range at last menstrual period
+RHQ_J,RHQ074,numeric,3286,1575,47.93061472915399,4,Tried for a year to become pregnant?
+RHQ_J,RHQ076,numeric,3286,1575,47.93061472915399,3,Seen a DR b/c unable to become pregnant?
+RHQ_J,RHQ078,numeric,3286,1575,47.93061472915399,4,Ever treated for a pelvic infection/PID?
+RHQ_J,RHQ131,numeric,3286,798,24.284844796104686,4,Ever been pregnant?
+RHQ_J,RHD143,numeric,3286,2618,79.67133292757151,3,Are you pregnant now?
+RHQ_J,RHQ160,numeric,3286,1171,35.63603164942179,12,How many times have been pregnant?
+RHQ_J,RHQ162,numeric,3286,1173,35.69689592209373,5,"During pregnancy, told you have diabetes"
+RHQ_J,RHQ163,numeric,3286,3109,94.61351186853317,29,Age told you had diabetes while pregnant
+RHQ_J,RHQ166,numeric,3286,1181,35.9403530127815,14,How many vaginal deliveries?
+RHQ_J,RHQ169,numeric,3286,2033,61.86853317102861,8,How many cesarean deliveries?
+RHQ_J,RHQ172,numeric,3286,1279,38.922702373706635,4,Any babies weigh 9 lbs or more?
+RHQ_J,RHD173,numeric,3286,2934,89.28788800973828,30,Age when delivered baby 9 lbs or more?
+RHQ_J,RHQ171,numeric,3286,1279,38.922702373706635,13,How many deliveries live birth result?
+RHQ_J,RHD180,numeric,3286,1320,40.170419963481436,31,Age at first live birth
+RHQ_J,RHD190,numeric,3286,1303,39.653073645769936,33,Age at last live birth
+RHQ_J,RHQ197,numeric,3286,3136,95.43517954960438,24,How many months ago have baby?
+RHQ_J,RHQ200,numeric,3286,3136,95.43517954960438,2,Now breastfeeding a child?
+RHQ_J,RHD280,numeric,3286,814,24.771758977480218,3,Had a hysterectomy?
+RHQ_J,RHQ291,numeric,3286,2729,83.04930006086427,43,Age when had hysterectomy
+RHQ_J,RHQ305,numeric,3286,815,24.80219111381619,3,Had both ovaries removed?
+RHQ_J,RHQ332,numeric,3286,2999,91.26597687157638,41,Age when both ovaries removed
+RHQ_J,RHQ420,numeric,3286,297,9.038344491783324,4,Ever taken birth control pills?
+RHQ_J,RHQ540,numeric,3286,801,24.3761412051126,4,Ever use female hormones?
+RHQ_J,RHQ542A,numeric,3286,2971,90.4138770541692,2,Hormone pills used
+RHQ_J,RHQ542B,numeric,3286,3227,98.20450395617772,1,Hormone patches used
+RHQ_J,RHQ542C,numeric,3286,3179,96.74376141205113,1,Hormone cream/suppository/injection used
+RHQ_J,RHQ542D,numeric,3286,3280,99.81740718198418,1,Other form of female hormone used
+RHQ_J,RHQ554,numeric,3286,2975,90.53560559951309,3,Use hormone pills w/estrogen only
+RHQ_J,RHQ560Q,numeric,3286,3068,93.36579427875837,24,How long taking estrogen-only pills?
+RHQ_J,RHQ560U,numeric,3286,3073,93.51795496043822,2,"Unit of measure: months, years"
+RHQ_J,RHQ570,numeric,3286,2975,90.53560559951309,3,Used estrogen/progestin combo pills
+RHQ_J,RHQ576Q,numeric,3286,3231,98.3262325015216,13,How long taking estrogen/progestin?
+RHQ_J,RHQ576U,numeric,3286,3232,98.35666463785758,2,"Unit of measure: months, years"
+RHQ_J,RHQ580,numeric,3286,3227,98.20450395617772,3,Used estrogen-only patches?
+RHQ_J,RHQ586Q,numeric,3286,3239,98.56968959220937,16,How long using estrogen only patches?
+RHQ_J,RHQ586U,numeric,3286,3239,98.56968959220937,2,"Unit of measure: months, years"
+RHQ_J,RHQ596,numeric,3286,3227,98.20450395617772,3,Used estrogen/progestin combo patches?
+RHQ_J,RHQ602Q,numeric,3286,3281,99.84783931832014,4,How long use estrogen/progestin patch
+RHQ_J,RHQ602U,numeric,3286,3281,99.84783931832014,2,"Unit of measure: months, years"
